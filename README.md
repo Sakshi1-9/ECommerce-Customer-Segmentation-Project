@@ -37,7 +37,7 @@ Key Highlights
 ✔ Data Structuring: Created a refined dataset with an OrderType column instead of dropping invoices, ensuring a balanced segmentation approach.
 ✔ Power BI Dashboard: Transformed raw data into an interactive visualization to extract actionable insights efficiently.
 
-📌 Check out the full project here: [GitHub Repository Link]
+📌 Check out the full project here: https://github.com/Sakshi1-9/ECommerce-Customer-Segmentation-Project.git
 
 Files in This Repository
 
