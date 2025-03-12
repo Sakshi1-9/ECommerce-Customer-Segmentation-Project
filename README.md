@@ -42,7 +42,8 @@ Key Highlights
 Files in This Repository
 
 📂 Notebooks( PART 1 & 2 )/ → Python code for data preprocessing & customer segmentation
-📂 Power BI/ → PBIX file with the interactive dashboard
+📂 Power BI/ → https://drive.google.com/file/d/1krSW2KpZ_3439yHOp2CLo5KMUFTcGnfh/view?usp=sharing
+ (PBIX file link with the interactive dashboard)
 
 How to Use
 
