@@ -1,31 +1,47 @@
 # ECommerce-Customer-Segmentation-Project
 Customer Segmentation and Revenue Analysis for a Gifting Store using Python and Power BI
 
-Unwrapping Customer Insights, Revenue, and Segmentation for a Gifting Store 🎁
+Unwrapping Customer Insights, Revenue, and Segmentation for a Gifting Store
 
-Project Overview
+Overview
 
-This project explores customer behavior in an e-commerce gifting store using Python and Power BI. The analysis focuses on:
+This project dives into customer behavior, revenue trends, and segmentation for a UK-based online gifting store using real-world e-commerce transaction data from Kaggle. Instead of just running standard analyses, I structured the data to make sense of customer patterns, ensuring that the insights could drive actual business decisions.
 
-Customer segmentation
+Dataset Details
 
-Revenue trends
+Source: E-commerce Data (Kaggle)
 
-Order cancellations
+Time Period: One year of transaction data
 
-Purchase patterns
+Key Columns:
 
+InvoiceNo: Unique order ID (prefix "C" for cancellations)
+
+StockCode & Description: Product details
+
+Quantity: Number of units purchased
+
+InvoiceDate: Date & time of transaction
+
+UnitPrice: Price per unit
+
+CustomerID: Unique customer identifier
+
+Country: Location of purchase
 
 Key Highlights
 
-✔ Data Cleaning & Preprocessing – Ensured reliable insights by handling missing values and inconsistencies.
-✔ Customer Segmentation in Python – Applied RFM analysis and K-Means clustering to group customers based on purchasing behavior.
-✔ Power BI Dashboard – Designed an interactive dashboard to visualize revenue trends and customer insights.
-✔ Cancellation Analysis – Evaluated order cancellations to refine business strategies.
+✔ Customer Segmentation: Identified loyal customers, big spenders, and frequent buyers using data-driven thresholds rather than standard percentiles.
+✔ Revenue Analysis: Evaluated seasonal trends, high-value transactions, and bulk orders to identify major revenue sources.
+✔ Cancellation Handling: Addressed the impact of high-volume canceled orders (up to 80,000 units) by filtering them thoughtfully rather than just removing them.
+✔ Data Structuring: Created a refined dataset with an OrderType column instead of dropping invoices, ensuring a balanced segmentation approach.
+✔ Power BI Dashboard: Transformed raw data into an interactive visualization to extract actionable insights efficiently.
+
+📌 Check out the full project here: [GitHub Repository Link]
 
 Files in This Repository
 
-📂 Notebooks(PART 1 & 2)/ → Python code for data preprocessing & customer segmentation
+📂 Notebooks( PART 1 & 2 )/ → Python code for data preprocessing & customer segmentation
 📂 Power BI/ → PBIX file with the interactive dashboard
 
 How to Use
